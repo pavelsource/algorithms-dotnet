@@ -5,7 +5,9 @@ This repository can help you to prepare yourself for the algorithm questions on 
 ## Contents
 ---
 This solution contains the following algorithms:
+
 __Sorting__
+
 | Algorithm | Time Complexity (Average) | Space Complexity (Worst) |
 |---------|:---------:|:---------:|
 | [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort) | Θ(n^2) | O(1) |
@@ -13,7 +15,9 @@ __Sorting__
 | [Heapsort](https://en.wikipedia.org/wiki/Heapsort) | Θ(n log(n)) | O(1) |
 | [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort) | Θ(n log(n)) | O(n) |
 | [Quicksort](https://en.wikipedia.org/wiki/Quicksort) | Θ(n log(n)) | Θ(n log(n)) |
+
 __Common Algorithms__
+
 | Algorithm | Time Complexity (Average) | Space Complexity (Worst) |
 |---------|:---------:|:---------:|
 | [Fibonacci Numbers Iterative](https://en.wikipedia.org/wiki/Fibonacci_number) | Θ(n) | O(1) |
