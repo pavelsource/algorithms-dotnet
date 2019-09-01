@@ -11,7 +11,7 @@ namespace Ashkue.Algorithms
             get
             {
                 yield return new object[2] { -100, "N/A" };
-                yield return new object[2] { 1, "0" };
+                yield return new object[2] { 1, "1" };
                 yield return new object[2] { 2, "0 1" };
                 yield return new object[2] { 3, "0 1 1" };
                 yield return new object[2] { 5, "0 1 1 2 3" };
