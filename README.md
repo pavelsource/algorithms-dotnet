@@ -1,6 +1,6 @@
 # Algorithms .NET
 
-![unit-tests](https://action-badges.now.sh/ashkue/algorithms-dotnet?workflow=unit-tests)
+[![Actions Status](https://github.com/ashkue/algorithms-dotnet/workflows/unit-tests/badge.svg)](https://github.com/ashkue/algorithms-dotnet/actions)
 
 This repository can help you to prepare yourself for the algorithm questions on .net platform. It includes main sorting algorithms, Fibonacci numbers algorithms and others. Plus it is also covered with tests for better understanding.
 
