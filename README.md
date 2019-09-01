@@ -1,12 +1,14 @@
 # Algorithms .NET
 
+![unit-tests](https://action-badges.now.sh/ashkue/algorithms-dotnet?workflow=unit-tests)
+
 This repository can help you to prepare yourself for the algorithm questions on .net platform. It includes main sorting algorithms, Fibonacci numbers algorithms and others. Plus it is also covered with tests for better understanding.
 
 ## Contents
----
+
 This solution contains the following algorithms:
 
-__Sorting__
+### Sorting
 
 | Algorithm | Time Complexity (Average) | Space Complexity (Worst) |
 |---------|:---------:|:---------:|
@@ -16,15 +18,17 @@ __Sorting__
 | [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort) | Θ(n log(n)) | O(n) |
 | [Quicksort](https://en.wikipedia.org/wiki/Quicksort) | Θ(n log(n)) | Θ(n log(n)) |
 
-__Common Algorithms__
+### Common Algorithms
 
 | Algorithm | Time Complexity (Average) | Space Complexity (Worst) |
 |---------|:---------:|:---------:|
 | [Fibonacci Numbers Iterative](https://en.wikipedia.org/wiki/Fibonacci_number) | Θ(n) | O(1) |
 | [Fibonacci Numbers Recursive](https://en.wikipedia.org/wiki/Fibonacci_number) | Θ(φ^n) | O(1) |
 | Reverse Array | Θ(n) | O(1) |
+
 ## Technologies
----
+
 This solution uses the following technologies:
-- Microsoft .NET Core 2.0 framework ([more information](https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/))
+
+- Microsoft .NET Core 2.2 framework ([more information](https://dotnet.microsoft.com/download/))
 - xUnit .NET test framework ([more information](https://xunit.github.io/))
